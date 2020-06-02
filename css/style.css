@@ -176,6 +176,9 @@ a.lang:hover{
     
     width: 100%; 
    }
+   @media screen and (max-width: 900px) {
+    #footer {display: none;}
+   }
 .country{
     border-color: #e5e5e5;
     margin-left: 1%;
